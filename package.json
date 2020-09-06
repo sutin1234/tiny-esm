@@ -1,6 +1,6 @@
 {
   "name": "tiny-esm",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "ES module, ESM Native library",
   "keyword": "ES module, ESM Native library",
   "main": "./lib/cjs/index.js",
@@ -15,7 +15,7 @@
     "prepublish": "npm run tsc",
     "publish": "npm publish --access public"
   },
-  "author": "thiny-code",
+  "author": "sutin1234",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.0.2"
